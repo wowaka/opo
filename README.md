@@ -8,6 +8,9 @@
 
 Чертеж пластины для крепления клавиш сгенерирован с помощью [ai03 Plate Generator](https://kbplate.ai03.com/). 
 
+![](assets/plate.svg)
+
+
 
 
 
