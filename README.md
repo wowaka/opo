@@ -11,3 +11,7 @@
 
 ![](assets/plate.svg)
 
+Электрическая схема сгенерирована с помощью [Keyboard Firmware Builder](https://kbfirmware.com/)
+
+![](assets/wiring.png)
+
