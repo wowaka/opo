@@ -20,14 +20,14 @@ Cхема соединений клавиш сгенерирована с пом
 ![](assets/wiring.png)
 
 
-**Статьи**
+**Что почитать**
 - Какие бывают переключатели: https://geekboards.ru/page/mechanical_switches_v2
 - Руководство Plate Builder по типам переключателей: http://builder-docs.swillkb.com/features/#switch-type
 - Keycap Profile & Size Information: https://blog.maxkeyboard.com/dwkb/keycap-profile-size-information/
 - Подробная инструкция по изготовлению сплит клавиатуры на основе ATmega32U4. Аналог Iris / Jiran своими руками: https://habr.com/ru/articles/515246/
 
 
-**Видео**
+**Что посмотреть**
 - Как я сделал самодельную механическую клавиатуру: https://www.youtube.com/watch?v=X6o-x2BWEV4
 - Микроконтроллер: RP2040 Raspberry Pi Pico Часть 1 Начало работы с Micropython в PyCharm и Thonny IDE: https://www.youtube.com/watch?v=Yokaa3KJCAM
 - How to Improve Your Handwired Keyboards: https://www.youtube.com/watch?v=m7Q5ZjqN-ao
