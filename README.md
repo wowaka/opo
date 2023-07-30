@@ -24,6 +24,7 @@ Cхема соединений клавиш сгенерирована с пом
 - Какие бывают переключатели: https://geekboards.ru/page/mechanical_switches_v2
 - Руководство Plate Builder по типам переключателей: http://builder-docs.swillkb.com/features/#switch-type
 - Keycap Profile & Size Information: https://blog.maxkeyboard.com/dwkb/keycap-profile-size-information/
+- Cardboard prototyping: https://golem.hu/guide/cardboard-prototyping/
 - Подробная инструкция по изготовлению сплит клавиатуры на основе ATmega32U4. Аналог Iris / Jiran своими руками: https://habr.com/ru/articles/515246/
 
 
