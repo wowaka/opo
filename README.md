@@ -30,6 +30,7 @@ Cхема соединений клавиш сгенерирована с пом
 - Микроконтроллер: RP2040 Raspberry Pi Pico Часть 1 Начало работы с Micropython в PyCharm и Thonny IDE: https://www.youtube.com/watch?v=Yokaa3KJCAM
 - Подробная инструкция по изготовлению сплит клавиатуры на основе ATmega32U4. Аналог Iris / Jiran своими руками: https://habr.com/ru/articles/515246/
 
+
 **Видео**
 - Как я сделал самодельную механическую клавиатуру: https://www.youtube.com/watch?v=X6o-x2BWEV4
 - How to Improve Your Handwired Keyboards: https://www.youtube.com/watch?v=m7Q5ZjqN-ao
