@@ -42,7 +42,7 @@ keyboard.coord_mapping = [
     14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27,
     28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41,
     42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55,
-                    56, 57, 58, 59, 60
+                    56, 57, 58,     59, 60
 ]
 
 # =============================================================
@@ -67,7 +67,7 @@ keyboard.keymap = [
         KC.TAB,   KC.Q,     KC.W,     KC.E,     KC.R,     KC.T,     KC.Y,     KC.U,     KC.I,     KC.O,     KC.P,     KC.LBRC,   KC.RBRC,   KC.BSLS,
         KC.LCTL,  KC.A,     KC.S,     KC.D,     KC.F,     KC.G,     KC.H,     KC.J,     KC.K,     KC.L,     KC.SCLN,  KC.QUOT,   KC.UP,     KC.ENT,
         KC.LSFT,  KC.Z,     KC.X,     KC.C,     KC.V,     KC.B,     KC.N,     KC.M,     KC.COMM,  KC.DOT,   KC.SLSH,  KC.LEFT,   KC.DOWN,   KC.RGHT,
-                                                LFN,      KC.LGUI,  KC.SPC,   KC.RALT,  RFN,    
+                                                LFN,      KC.LGUI,  KC.SPC,             KC.RALT,  RFN,    
     ],
     [   # Left FN
         KC.GRV,   KC.F1,    KC.F2,    KC.F3,    KC.F4,    KC.F5,    KC.F6,    KC.F7,    KC.F8,    KC.F9,    KC.F10,   KC.F11,   KC.F12,   KC.BSPC,
