@@ -1,5 +1,5 @@
 #  Ортолинейная версия Purple Owl
-
+Ortholinear Purple Owl (OPO)
 
 За основу взята клавиатура Purple Owl: https://github.com/SonalPinto/purple-owl.
 В качестве контроллера используется плата [Raspbery Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) с прошивкой [KMK](https://github.com/KMKfw/kmk_firmware).
