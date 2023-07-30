@@ -1,10 +1,10 @@
-#  Ortholinear Purple Owl
+#  Ортолинейная версия Purple Owl
 
-Ortholinear keyboard based on Purple Owl 60% Keyboard: https://github.com/SonalPinto/purple-owl
+За основу взята клавиатура Purple Owl: https://github.com/SonalPinto/purple-owl
 
-The board runs on [KMK](http://kmkfw.io/), so the keys can be freely mapped.
+В качестве контроллера используется плата [Raspbery Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) с прошивкой [KMK]([http://kmkfw.io/](https://github.com/KMKfw/kmk_firmware)
+Прошивка с помощью ), so the keys can be freely mapped.
 
-![](assets/kle.png)
-
-Link to the base layout at [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/5cc3faeed62e0535db84b48822869d70). KLE Raw is also available [here](https://github.com/wowaka/opo/blob/main/kle.txt)
+Раскладка сгенерироване с помощью [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/5cc3faeed62e0535db84b48822869d70). 
+См.[RAW](https://github.com/wowaka/opo/blob/main/kle.txt)
 
