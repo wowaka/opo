@@ -10,10 +10,3 @@
 
 ![](assets/plate.svg)
 
-
-
-
-
-
-
-
