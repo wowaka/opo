@@ -17,7 +17,7 @@ Ortholinear Purple Owl (OPO)
 
 Cхема соединений клавиш сгенерирована с помощью [Keyboard Firmware Builder](https://kbfirmware.com/)
 
-![](assets/wiring2.png)
+![](assets/wiring3.png)
 
 
 **Что почитать**
