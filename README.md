@@ -28,6 +28,7 @@ Cхема соединений клавиш сгенерирована с пом
 - [Руководство Plate Builder по типам переключателей](http://builder-docs.swillkb.com/features/#switch-type)
 - [Keycap Profile & Size Information](https://blog.maxkeyboard.com/dwkb/keycap-profile-size-information/)
 - [KMK Boards](https://github.com/KMKfw/kmk_firmware/tree/master/boards)
+- [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
 
 
 **Что посмотреть**
