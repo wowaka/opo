@@ -27,6 +27,7 @@ Cхема соединений клавиш сгенерирована с пом
 - [Какие бывают переключатели](https://geekboards.ru/page/mechanical_switches_v2)
 - [Руководство Plate Builder по типам переключателей](http://builder-docs.swillkb.com/features/#switch-type)
 - [Keycap Profile & Size Information](https://blog.maxkeyboard.com/dwkb/keycap-profile-size-information/)
+- [KMK Boards](https://github.com/KMKfw/kmk_firmware/tree/master/boards)
 
 
 **Что посмотреть**
