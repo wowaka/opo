@@ -6,18 +6,18 @@ Ortholinear Purple Owl (OPO)
 
 Раскладка сгенерироване с помощью [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/5cc3faeed62e0535db84b48822869d70) (cм.[RAW](https://github.com/wowaka/opo/blob/main/kle.txt)).
 
-![](assets/kle2.png)
+![](assets/kle.png)
 
 
-Чертеж пластины для крепления клавиш сгенерирован с помощью [ai03 Plate Generator](https://kbplate.ai03.com/) (см. [DXF](assets/plate2.dxf))
+Чертеж пластины для крепления клавиш сгенерирован с помощью [ai03 Plate Generator](https://kbplate.ai03.com/) (см. [DXF](assets/plate.dxf))
 
-![](assets/plate2.svg)
+![](assets/plate.svg)
 
 Просмотровщик и редактор DXF: [SOLVESPACE](https://solvespace.com/index.pl)
 
 Cхема соединений клавиш сгенерирована с помощью [Keyboard Firmware Builder](https://kbfirmware.com/)
 
-![](assets/wiring3.png)
+![](assets/wiring.png)
 
 
 **Что почитать**
