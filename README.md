@@ -36,3 +36,4 @@ Cхема соединений клавиш сгенерирована с пом
 - [Микроконтроллер: RP2040 Raspberry Pi Pico Часть 1 Начало работы с Micropython в PyCharm и Thonny IDE](https://www.youtube.com/watch?v=Yokaa3KJCAM)
 - [How to Improve Your Handwired Keyboards](https://www.youtube.com/watch?v=m7Q5ZjqN-ao)
 - [Setting up KMK on a Pi Pico mechanical keyboard](https://www.youtube.com/watch?v=i43lZPAkA2c)
+- [How to Build a Handwired Keyboard](https://www.youtube.com/watch?v=hjml-K-pV4E)
