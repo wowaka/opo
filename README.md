@@ -16,14 +16,17 @@ Ortholinear Purple Owl (OPO)
 Просмотровщик и редактор DXF: [SOLVESPACE](https://solvespace.com/index.pl)
 
 
-Cхема соединений
+Cхема соединений сгенерирована с помощью [Keyboard Firmware Builder](https://kbfirmware.com/)
 
 ![](assets/wiring.png)
+
+
+Электрическая принципиальная схема
 
 ![](assets/schematic.png)
 
 
-Цоколёвка
+Цоколёвка Raspberry Pi Pico 
 
 ![](assets/pinout.svg)
 
