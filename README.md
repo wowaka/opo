@@ -18,6 +18,8 @@ Ortholinear Purple Owl (OPO)
 
 Cхема соединений
 
+![](assets/wiring.png)
+
 ![](assets/schematic.png)
 
 
