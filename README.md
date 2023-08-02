@@ -15,12 +15,13 @@ Ortholinear Purple Owl (OPO)
 
 Просмотровщик и редактор DXF: [SOLVESPACE](https://solvespace.com/index.pl)
 
+
 Cхема соединений
 
 ![](assets/schematic.png)
 
 
-Црколёвка
+Цоколёвка
 
 ![](assets/pinout.svg)
 
