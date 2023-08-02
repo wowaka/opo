@@ -13,7 +13,7 @@ keyboard = KMKKeyboard()
 
 # =============================================================
 # Keyboard Physical Configuration
-keyboard.diode_orientation = DiodeOrientation.COL2ROW
+keyboard.diode_orientation = DiodeOrientation.COL2ROW # направление от столбца к строке (столбец - анод, строка - катод)
 keyboard.col_pins = (
     board.GP13,     # col-1 (left)
     board.GP12,
