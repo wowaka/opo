@@ -15,9 +15,9 @@ Ortholinear Purple Owl (OPO)
 
 Просмотровщик и редактор DXF: [SOLVESPACE](https://solvespace.com/index.pl)
 
-Cхема соединений клавиш сгенерирована с помощью [Keyboard Firmware Builder](https://kbfirmware.com/)
+Cхема соединений
 
-![](assets/wiring.png)
+![](assets/schematic.png)
 
 
 **Что почитать**
