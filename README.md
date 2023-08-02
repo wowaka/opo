@@ -22,7 +22,7 @@ Cхема соединений
 
 Црколёвка
 
-![](assets/pinout.png)
+![](assets/pinout.svg)
 
 
 **Что почитать**
