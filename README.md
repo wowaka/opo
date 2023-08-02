@@ -20,6 +20,11 @@ Cхема соединений
 ![](assets/schematic.png)
 
 
+Црколёвка
+
+![](assets/pinout.png)
+
+
 **Что почитать**
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
 - [Cardboard prototyping](https://golem.hu/guide/cardboard-prototyping/)
