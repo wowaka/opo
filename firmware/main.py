@@ -15,27 +15,27 @@ keyboard = KMKKeyboard()
 # Keyboard Physical Configuration
 keyboard.diode_orientation = DiodeOrientation.COL2ROW     ## направление от столбца к строке (от анода к катоду)
 keyboard.col_pins = (
-    board.GP13,     # col-1 (left)
-    board.GP12,
-    board.GP11,
-    board.GP10,
-    board.GP9,
-    board.GP8,
-    board.GP7,
-    board.GP6,
-    board.GP5,
-    board.GP4,
-    board.GP3,
-    board.GP2,
+    board.GP0,  # col-1 (left)
     board.GP1,
-    board.GP0,      # col-14 (right)
+    board.GP2,
+    board.GP3,     
+    board.GP4,
+    board.GP5,
+    board.GP6,
+    board.GP7,
+	board.GP8,
+    board.GP9,
+    board.GP10,
+    board.GP11,
+    board.GP12,
+    board.GP13,  # col-14 (right)
 )
-keyboard.row_pins = (
-    board.GP29,     # row-1 (top)
-    board.GP28,
-    board.GP27,
-    board.GP26,
-    board.GP15,     # row-5 (bottom)
+keyboard.row_pins = (   
+    board.GP18,  # row-1 (top)
+	board.GP19,
+	board.GP20,
+	board.GP21,
+	board.GP22,  # row-5 (bottom)   
 )
 keyboard.coord_mapping = [
     0,  1,  2,  3,  4,  5,  6,  7,  8,  9,  10, 11, 12, 13,
