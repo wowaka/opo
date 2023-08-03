@@ -17,19 +17,20 @@ Ortholinear Purple Owl (OPO)
 Просмотровщик и редактор DXF: [SOLVESPACE](https://solvespace.com/index.pl)
 
 
-Электрическая принципиальная схема (монтажная сторона)
+Электрическая схема (монтажная сторона)
 
 ![](assets/scheme.png)
+
+
+Оригинальная электрическая схема Purple Owl
+
+![](assets/PurpleOwlScheme.png)
 
 
 Назначение выводов Raspberry Pi Pico 
 
 ![](assets/pinout.svg)
 
-
-Оригинальная схема Purple Owl
-
-![](assets/PurpleOwlScheme.png)
 
 
 **Что почитать**
