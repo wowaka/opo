@@ -23,7 +23,7 @@ Cхема соединений сгенерирована с помощью [Key
 
 Электрическая принципиальная схема
 
-![](assets/schematic.png)
+![](assets/scheme.png)
 
 
 Назначение выводов Raspberry Pi Pico 
