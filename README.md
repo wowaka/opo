@@ -27,6 +27,11 @@ Ortholinear Purple Owl (OPO)
 ![](assets/pinout.svg)
 
 
+Оригинальная схема Purple Owl
+
+![](assets/PurpleOwlScheme.png)
+
+
 **Что почитать**
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
 - [Cardboard prototyping](https://golem.hu/guide/cardboard-prototyping/)
