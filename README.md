@@ -19,7 +19,7 @@ Ortholinear Purple Owl (OPO)
 
 Электрическая принципиальная схема (монтажная сторона)
 
-![](assets/scheme2.png)
+![](assets/scheme.png)
 
 
 Назначение выводов Raspberry Pi Pico 
