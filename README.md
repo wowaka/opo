@@ -26,7 +26,7 @@ Cхема соединений сгенерирована с помощью [Key
 ![](assets/schematic.png)
 
 
-Цоколёвка Raspberry Pi Pico 
+Назначение выводов Raspberry Pi Pico 
 
 ![](assets/pinout.svg)
 
