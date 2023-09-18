@@ -32,7 +32,6 @@ Ortholinear Purple Owl (OPO)
 ![](assets/pinout.svg)
 
 
-
 **Что почитать**
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
 - [Cardboard prototyping](https://golem.hu/guide/cardboard-prototyping/)
