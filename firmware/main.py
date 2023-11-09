@@ -1,5 +1,5 @@
 """
-Purple Owl v0.1 KMK Build
+Ortholinear Purple Owl v.1 KMK Build
 """
 
 import board
