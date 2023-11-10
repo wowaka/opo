@@ -39,9 +39,9 @@ Ortholinear Purple Owl (OPO)
 - [Какие бывают переключатели](https://geekboards.ru/page/mechanical_switches_v2)
 - [Руководство Plate Builder по типам переключателей](http://builder-docs.swillkb.com/features/#switch-type)
 - [Keycap Profile & Size Information](https://blog.maxkeyboard.com/dwkb/keycap-profile-size-information/)
+- [Raspberry Pi Pico на МК RP2040. Как установить CircuitPython](https://habr.com/ru/articles/538994/)
 - [KMK Boards](https://github.com/KMKfw/kmk_firmware/tree/master/boards)
 - [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
-- [Raspberry Pi Pico на МК RP2040. Как установить CircuitPython](https://habr.com/ru/articles/538994/)
 
 
 **Что посмотреть**
