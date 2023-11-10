@@ -32,6 +32,15 @@ Ortholinear Purple Owl (OPO)
 ![](assets/pinout.svg)
 
 
+**Как установить CircuitPython**
+1. Скачать файл UF2 файл с CircuitPython'ом на circuitpython.org/board/raspberry_pi_pico
+2. Перевести Pico в режим UF2 удержанием BOOTSEL во время подачи питания USB
+3. Скопировать файл из #1 на флешку RPI-RP2, после чего Pico перезапустится автоматически
+
+После этого из системы уйдёт RPI-RP2 и вместо него появится новый накопитель CIRCUITPY. На этом новом накопители должен быть файл code.py, с которого начинается выполнение кода. Так же там будет пустая директория «lib», куда можно добавлять сторонние и свои библиотеки.
+Файл code.py можно изменять прямо на этом накопителе в своём любимом редакторе. Adafruit советует использовать свой MU Editor, но у меня он зависает при запуске. Наверно, это даже к лучшему, так как я всё равно пользовался бы чем-то другим.
+
+
 **Что почитать**
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
 - [Cardboard prototyping](https://golem.hu/guide/cardboard-prototyping/)
@@ -41,11 +50,13 @@ Ortholinear Purple Owl (OPO)
 - [Keycap Profile & Size Information](https://blog.maxkeyboard.com/dwkb/keycap-profile-size-information/)
 - [KMK Boards](https://github.com/KMKfw/kmk_firmware/tree/master/boards)
 - [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
+- [Raspberry Pi Pico на МК RP2040](https://habr.com/ru/articles/538994/)
 
 
 **Что посмотреть**
 - [Как я сделал самодельную механическую клавиатуру](https://www.youtube.com/watch?v=X6o-x2BWEV4)
-- [Микроконтроллер: RP2040 Raspberry Pi Pico Часть 1 Начало работы с Micropython в PyCharm и Thonny IDE](https://www.youtube.com/watch?v=Yokaa3KJCAM)
 - [How to Improve Your Handwired Keyboards](https://www.youtube.com/watch?v=m7Q5ZjqN-ao)
-- [Setting up KMK on a Pi Pico mechanical keyboard](https://www.youtube.com/watch?v=i43lZPAkA2c)
 - [How to Build a Handwired Keyboard](https://www.youtube.com/watch?v=hjml-K-pV4E)
+- [Setting up KMK on a Pi Pico mechanical keyboard](https://www.youtube.com/watch?v=i43lZPAkA2c)
+- [Install CircuitPython on Raspberry Pi Pico](https://www.youtube.com/watch?v=1xctZfhZt_g)
+- [Soldering Raspberry Pi Pico](https://www.youtube.com/watch?v=u3A2UhlUC2w)
