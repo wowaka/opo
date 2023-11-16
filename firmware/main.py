@@ -31,11 +31,11 @@ keyboard.col_pins = (
     board.GP13,  # col-14 (right)
 )
 keyboard.row_pins = (   
-    board.GP17,  # row-1 (top)
-    board.GP18,
+    board.GP18,  # row-1 (top)
     board.GP19,
     board.GP20,
-    board.GP21,  # row-5 (bottom)   
+    board.GP21,
+    board.GP22,  # row-5 (bottom)   
 )
 keyboard.coord_mapping = [
     0,  1,  2,  3,  4,  5,  6,  7,  8,  9,  10, 11, 12, 13,
