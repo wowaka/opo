@@ -43,6 +43,7 @@ Ortholinear Purple Owl (OPO)
 - [Setting Up CircuitPython](https://github.com/CytronTechnologies/MAKER-PI-RP2040/blob/main/setup-circuitpython.md)
 - [KMK Boards](https://github.com/KMKfw/kmk_firmware/tree/master/boards)
 - [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
+- [Keys Overview](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md)
 
 
 **Что посмотреть**
