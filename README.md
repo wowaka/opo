@@ -33,6 +33,7 @@ Ortholinear Purple Owl (OPO)
 
 
 **Что почитать**
+- [Подробная инструкция сборки сплит клавиатуры на RP Pico с Хабра](https://habr.com/ru/articles/795727/) 
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
 - [Cardboard prototyping](https://golem.hu/guide/cardboard-prototyping/)
 - [Подробная инструкция по изготовлению сплит клавиатуры на основе ATmega32U4. Аналог Iris / Jiran своими руками](https://habr.com/ru/articles/515246/)
@@ -45,7 +46,7 @@ Ortholinear Purple Owl (OPO)
 - [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
 - [Keys Overview](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md)
 - [Scotto108 Handwired Keyboard](https://scottokeebs.com/blogs/keyboards/scotto108-handwired-keyboard)
-- [Свежая подробная инструкция сборки сплит клавиатуры на RP Pico с Хабра](https://habr.com/ru/articles/795727/) 
+
 
 
 **Что посмотреть**
