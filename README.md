@@ -33,7 +33,7 @@ Ortholinear Purple Owl (OPO)
 
 
 **Что почитать**
-- [Подробная инструкция сборки сплит клавиатуры на RP Pico с Хабра](https://habr.com/ru/articles/795727/) 
+- [DIY клавиатура из фанеры](https://habr.com/ru/articles/795727/) 
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
 - [Cardboard prototyping](https://golem.hu/guide/cardboard-prototyping/)
 - [Подробная инструкция по изготовлению сплит клавиатуры на основе ATmega32U4. Аналог Iris / Jiran своими руками](https://habr.com/ru/articles/515246/)
