@@ -45,6 +45,7 @@ Ortholinear Purple Owl (OPO)
 - [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
 - [Keys Overview](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md)
 - [Scotto108 Handwired Keyboard](https://scottokeebs.com/blogs/keyboards/scotto108-handwired-keyboard)
+- [Свежая подробная инструкция сборки сплит клавиатуры на RP Pico с Хабра](https://habr.com/ru/articles/795727/) 
 
 
 **Что посмотреть**
