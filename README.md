@@ -53,8 +53,7 @@ Ortholinear Purple Owl (OPO)
 - [KMK Boards](https://github.com/KMKfw/kmk_firmware/tree/master/boards)
 - [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
 - [Keys Overview](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md)
-- [Scotto108 Handwired Keyboard](https://scottokeebs.com/blogs/keyboards/scotto108-handwired-keyboard)
-
+- [ScottoKeebs](https://scottokeebs.com/)
 
 
 **Что посмотреть**
