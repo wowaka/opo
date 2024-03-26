@@ -27,7 +27,7 @@ Ortholinear Purple Owl (OPO)
 ![](assets/PurpleOwlScheme.png)
 
 
-Возможный внешний вид клавиатуры
+Расположение платы RP2040
 
 ![](assets/arrangement.jpeg)
 
