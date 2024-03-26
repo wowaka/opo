@@ -58,7 +58,7 @@ Ortholinear Purple Owl (OPO)
 
 **Что посмотреть**
 - [Как я сделал самодельную механическую клавиатуру](https://www.youtube.com/watch?v=X6o-x2BWEV4)
-- [Канал про сборку клавиатур](https://www.youtube.com/@joe_scotto)
+- [ScottoKeebs](https://www.youtube.com/@joe_scotto)
 - [Setting up KMK on a Pi Pico mechanical keyboard](https://www.youtube.com/watch?v=i43lZPAkA2c)
 - [Install CircuitPython on Raspberry Pi Pico](https://www.youtube.com/watch?v=1xctZfhZt_g)
 - [Soldering Raspberry Pi Pico](https://www.youtube.com/watch?v=u3A2UhlUC2w)
