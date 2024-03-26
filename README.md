@@ -43,8 +43,8 @@ Ortholinear Purple Owl (OPO)
 
 
 **Что почитать**
-- [DIY клавиатура из фанеры](https://habr.com/ru/articles/795727/) 
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
+- [**DIY клавиатура из фанеры**](https://habr.com/ru/articles/795727/) 
 - [Какие бывают переключатели](https://geekboards.ru/page/mechanical_switches_v2)
 - [Руководство Plate Builder по типам переключателей](http://builder-docs.swillkb.com/features/#switch-type)
 - [Keycap Profile & Size Information](https://blog.maxkeyboard.com/dwkb/keycap-profile-size-information/)
