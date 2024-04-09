@@ -22,11 +22,6 @@ Ortholinear Purple Owl (OPO)
 ![](assets/schema.png)
 
 
-Оригинальная электрическая схема Purple Owl
-
-![](assets/PurpleOwlScheme.png)
-
-
 Соединения клавиш (монтажная сторона)
 
 ![](assets/mounting.png)
