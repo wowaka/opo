@@ -27,7 +27,7 @@ Ortholinear Purple Owl (OPO)
 ![](assets/mounting.png)
 
 
-Расположение платы RP2040
+Расположить RP2040 справа
 
 ![](assets/arrangement.jpeg)
 
