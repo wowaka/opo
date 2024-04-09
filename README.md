@@ -17,9 +17,9 @@ Ortholinear Purple Owl (OPO)
 Просмотровщик и редактор DXF: [SOLVESPACE](https://solvespace.com/index.pl)
 
 
-Электрическая схема (монтажная сторона)
+Электрическая схема
 
-![](assets/scheme.png)
+![](assets/schematic.png)
 
 
 Оригинальная электрическая схема Purple Owl
