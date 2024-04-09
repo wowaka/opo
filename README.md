@@ -22,7 +22,7 @@ Ortholinear Purple Owl (OPO)
 ![](assets/scheme.png)
 
 
-Оригинальная электрическая схема Purple Owl (со стороны клавиш)
+Оригинальная электрическая схема Purple Owl
 
 ![](assets/PurpleOwlScheme.png)
 
