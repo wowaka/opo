@@ -22,7 +22,7 @@ Ortholinear Purple Owl (OPO)
 ![](assets/schema.png)
 
 
-Соединения клавиш (монтажная сторона)
+Монтаж
 
 ![](assets/mounting.png)
 
