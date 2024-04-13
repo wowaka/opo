@@ -54,6 +54,7 @@ Ortholinear Purple Owl (OPO)
 
 **Что посмотреть**
 - [ScottoKeebs](https://www.youtube.com/@joe_scotto)
+- [How to Design Mechanical Keyboard PCBs with Kicad](https://www.youtube.com/watch?v=8WXpGTIbxlQ)
 - [Setting up KMK on a Pi Pico mechanical keyboard](https://www.youtube.com/watch?v=i43lZPAkA2c)
 - [Install CircuitPython on Raspberry Pi Pico](https://www.youtube.com/watch?v=1xctZfhZt_g)
 - [Soldering Raspberry Pi Pico](https://www.youtube.com/watch?v=u3A2UhlUC2w)
