@@ -34,7 +34,7 @@ Ortholinear Purple Owl (OPO)
 ![](assets/KeyboardMountingStyles.png)
 
 
-Расположить RP2040 справа (на картинке ниже RP2040 располагается слева)
+Пример расположения контроллера
 
 ![](assets/arrangement.jpeg)
 
