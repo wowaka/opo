@@ -1,6 +1,8 @@
 #  Ортолинейная версия Purple Owl
 Ortholinear Purple Owl (OPO)
 
+![](assets/dark.jpg)
+
 За основу взята клавиатура [Purple Owl](https://github.com/SonalPinto/purple-owl).
 В качестве контроллера используется плата [Raspbery Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) с прошивкой [KMK](https://github.com/KMKfw/kmk_firmware).
 
@@ -35,11 +37,6 @@ Ortholinear Purple Owl (OPO)
 Расположить RP2040 справа (на картинке ниже RP2040 располагается слева)
 
 ![](assets/arrangement.jpeg)
-
-
-Как выглядит оригинал
-
-![](assets/dark.jpg)
 
 
 Назначение выводов Raspberry Pi Pico 
