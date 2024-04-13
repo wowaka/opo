@@ -53,6 +53,7 @@ Ortholinear Purple Owl (OPO)
 
 
 **Что посмотреть**
+- [A DIY 3D Printed and Handwired Custom](https://www.youtube.com/watch?v=iOeYkLlq9Ds)
 - [ScottoKeebs](https://www.youtube.com/@joe_scotto)
 - [How to Design Mechanical Keyboard Plates and Cases](https://www.youtube.com/watch?v=7azQkSu0m_U)
 - [How to Design Mechanical Keyboard PCBs with Kicad](https://www.youtube.com/watch?v=8WXpGTIbxlQ)
