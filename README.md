@@ -38,7 +38,7 @@ Ortholinear Purple Owl (OPO)
 
 
 Как выглядит оригинал
-![](assets/dark.jpeg)
+![](assets/dark.jpg)
 
 
 Назначение выводов Raspberry Pi Pico 
