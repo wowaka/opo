@@ -38,6 +38,7 @@ Ortholinear Purple Owl (OPO)
 
 
 Как выглядит оригинал
+
 ![](assets/dark.jpg)
 
 
