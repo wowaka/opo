@@ -21,7 +21,7 @@ Ortholinear Purple Owl (OPO)
 
 Электрическая схема
 
-![](assets/schema.png)
+![](assets/schema2.png)
 
 
 Монтаж. Источник: [https://habr.com/ru/articles/795727/](https://habr.com/ru/articles/795727/)
