@@ -45,8 +45,8 @@ Ortholinear Purple Owl (OPO)
 
 
 **Что почитать**
-- [**Commodore 64 Mechanical Keyboard, Part 2**](https://bestguy.github.io/site/keyboard/2018/01/09/c64part2.html)
-- [**DIY клавиатура из фанеры**](https://habr.com/ru/articles/795727/)
+- [DIY клавиатура из фанеры](https://habr.com/ru/articles/795727/)
+- [Commodore 64 Mechanical Keyboard, Part 2](https://bestguy.github.io/site/keyboard/2018/01/09/c64part2.html)
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
 - [Какие бывают переключатели](https://geekboards.ru/page/mechanical_switches_v2)
 - [Руководство Plate Builder по типам переключателей](http://builder-docs.swillkb.com/features/#switch-type)
