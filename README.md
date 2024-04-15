@@ -9,6 +9,8 @@ Ortholinear Purple Owl (OPO)
 
 Раскладка сгенерироване с помощью [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/5cc3faeed62e0535db84b48822869d70) (cм.[RAW](https://github.com/wowaka/opo/blob/main/kle.txt)).
 
+Раскладка под Windows/Linux
+
 ![](assets/kle3.png)
 
 
