@@ -12,6 +12,11 @@ Ortholinear Purple Owl (OPO)
 ![](assets/kle3.png)
 
 
+Раскладка под OSX
+
+![](assets/kle.png)
+
+
 Чертеж пластины для крепления клавиш сгенерирован с помощью [ai03 Plate Generator](https://kbplate.ai03.com/) (см. [DXF](assets/plate.dxf))
 
 ![](assets/plate.svg)
