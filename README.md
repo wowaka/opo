@@ -31,12 +31,12 @@ Ortholinear Purple Owl (OPO)
 ![](assets/schema2.png)
 
 
-Монтаж. Источник: [https://habr.com/ru/articles/795727/](https://habr.com/ru/articles/795727/)
+Пример монтажа. Источник: [https://habr.com/ru/articles/795727/](https://habr.com/ru/articles/795727/)
 
 ![](assets/mounting.png)
 
 
-Варианты корпусов
+Варианты корпуса
 
 ![](assets/KeyboardMountingStyles.png)
 
