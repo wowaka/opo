@@ -11,12 +11,12 @@ Ortholinear Purple Owl (OPO)
 
 Раскладка под Windows/Linux
 
-![](assets/kle3.png)
+![](assets/win.png)
 [Альтернативный вариант раскладки под Windows/Linux](assets/alternative4.png)
 
 Раскладка под OSX
 
-![](assets/kle5.png)
+![](assets/osx.png)
 
 
 Чертеж пластины для крепления клавиш сгенерирован с помощью [ai03 Plate Generator](https://kbplate.ai03.com/) (см. [DXF](assets/plate.dxf))
