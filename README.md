@@ -10,9 +10,9 @@ Ortholinear Purple Owl (OPO)
 
 ![](assets/win2.png)
 
-[Альтернативный вариант раскладки под Windows/Linux](assets/alternative4.png)
+[Альтернативный вариант раскладки под Windows/Linux](assets/alternative7.png)
 
-[Альтернативный вариант раскладки под Windows/Linux с цифровым блоком](assets/alternative7.png)
+[Альтернативный вариант раскладки под Windows/Linux с цифровым блоком](assets/alternative8.png)
 
 
 Раскладка под OSX
