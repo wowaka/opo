@@ -6,51 +6,39 @@ Ortholinear Purple Owl (OPO)
 За основу взята клавиатура [Purple Owl](https://github.com/SonalPinto/purple-owl).
 В качестве контроллера используется плата [Raspbery Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) с прошивкой [KMK](https://github.com/KMKfw/kmk_firmware). Раскладка сгенерироване с помощью [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/5cc3faeed62e0535db84b48822869d70) (cм.[RAW](https://github.com/wowaka/opo/blob/main/kle.txt)).
 
-Раскладка под Windows/Linux
+Раскладка Windows/Linux/OSX
 
-![](assets/win2.png)
+![](assets/win3.png)
 
-[Альтернативный вариант раскладки под Windows/Linux с цифровым блоком](assets/alternative6.png)
+[Альтернативный вариант раскладки с цифровым блоком](assets/alternative6.png)
 
-[Альтернативный вариант "раздельной" раскладки под Windows/Linux](assets/alternative7.png)
-
-
-Раскладка под OSX
-
-![](assets/osx.png)
-
+[Альтернативный вариант "раздельной" раскладки](assets/alternative7.png)
 
 Чертеж пластины для крепления клавиш сгенерирован с помощью [ai03 Plate Generator](https://kbplate.ai03.com/) (см. [DXF](assets/plate.dxf))
 
 ![](assets/plate.svg)
 Просмотровщик и редактор DXF: [SOLVESPACE](https://solvespace.com/index.pl)
 
-
 Электрическая схема
 
 ![](assets/schema3.png)
 [Альтернативный вариант cхемы](assets/schema_alt3.png)
 
-
 Пример монтажа. Источник: [https://habr.com/ru/articles/795727/](https://habr.com/ru/articles/795727/)
 
 ![](assets/mounting.png)
-
 
 Варианты корпуса
 
 ![](assets/KeyboardMountingStyles.png)
 
-
 Пример расположения контроллера
 
 ![](assets/arrangement.jpeg)
 
-
 Назначение выводов Raspberry Pi Pico 
 
 ![](assets/pinout.svg)
-
 
 **Что почитать**
 - [DIY клавиатура из фанеры](https://habr.com/ru/articles/795727/)
