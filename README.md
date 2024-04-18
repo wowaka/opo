@@ -21,7 +21,7 @@ Ortholinear Purple Owl (OPO)
 
 Альтернативный вариант раскладки под Windows/Linux
 
-![](assets/alternative.png)
+![](assets/alternative2.png)
 
 
 Чертеж пластины для крепления клавиш сгенерирован с помощью [ai03 Plate Generator](https://kbplate.ai03.com/) (см. [DXF](assets/plate.dxf))
