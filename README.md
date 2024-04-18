@@ -32,7 +32,7 @@ Ortholinear Purple Owl (OPO)
 
 ![](assets/schema3.png)
 
-[Альтернативный вариант cхемы](assets/schema_alt.png)
+[Альтернативный вариант cхемы](assets/schema_alt2.png)
 
 
 Пример монтажа. Источник: [https://habr.com/ru/articles/795727/](https://habr.com/ru/articles/795727/)
