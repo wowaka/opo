@@ -56,6 +56,7 @@ Ortholinear Purple Owl (OPO)
 - [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
 - [Keys Overview](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md)
 - [ScottoKeebs](https://scottokeebs.com/)
+- [Mechanical Keyboard and where to find them](https://github.com/kaos-XIII/List-Mechanical-Keyboard)
 
 
 **Что посмотреть**
