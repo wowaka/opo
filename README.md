@@ -47,6 +47,7 @@ Ortholinear Purple Owl (OPO)
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
 - [Раскладка Ильи Шепрута](https://optozorax.github.io/p/my-keyboard-layout/)
+- [Mechanical Keyboard and where to find them](https://github.com/kaos-XIII/List-Mechanical-Keyboard)
 - [Какие бывают переключатели](https://geekboards.ru/page/mechanical_switches_v2)
 - [Руководство Plate Builder по типам переключателей](http://builder-docs.swillkb.com/features/#switch-type)
 - [Keycap Profile & Size Information](https://blog.maxkeyboard.com/dwkb/keycap-profile-size-information/)
@@ -56,7 +57,7 @@ Ortholinear Purple Owl (OPO)
 - [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
 - [Keys Overview](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md)
 - [ScottoKeebs](https://scottokeebs.com/)
-- [Mechanical Keyboard and where to find them](https://github.com/kaos-XIII/List-Mechanical-Keyboard)
+- [Boardsource](https://www.boardsource.xyz/)
 
 
 **Что посмотреть**
