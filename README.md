@@ -29,7 +29,7 @@ Ortholinear Purple Owl (OPO)
 
 Варианты корпуса
 
-![](assets/KeyboardMountingStyles.png)
+![](assets/mounting.png)
 
 Пример расположения контроллера
 
