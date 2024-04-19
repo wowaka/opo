@@ -29,6 +29,10 @@ Ortholinear Purple Owl (OPO)
 
 ![](assets/mount2.png)
 
+И еще один пример монтажа. Источник: [https://scottokeebs.com/blogs/keyboards/scotto61-handwired-keyboard](https://scottokeebs.com/blogs/keyboards/scotto61-handwired-keyboard)
+
+![](assets/mount3.png)
+
 Варианты корпуса
 
 ![](assets/mounting.png)
