@@ -25,6 +25,10 @@ Ortholinear Purple Owl (OPO)
 
 ![](assets/mount.png)
 
+Еще один пример монтажа. Источник: [https://geekhack.org/index.php?topic=87689.0](https://geekhack.org/index.php?topic=87689.0)
+
+![](assets/mount2.png)
+
 Варианты корпуса
 
 ![](assets/mounting.png)
