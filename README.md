@@ -44,6 +44,7 @@ Ortholinear Purple Owl (OPO)
 **Что почитать**
 - [DIY клавиатура из фанеры](https://habr.com/ru/articles/795727/)
 - [Commodore 64 Mechanical Keyboard, Part 2](https://bestguy.github.io/site/keyboard/2018/01/09/c64part2.html)
+- [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 - [Разработка собственной клавиатуры для новичков](https://mkbd.ru/post/make-own-custom-keyboard/)
 - [Какие бывают переключатели](https://geekboards.ru/page/mechanical_switches_v2)
 - [Руководство Plate Builder по типам переключателей](http://builder-docs.swillkb.com/features/#switch-type)
@@ -57,7 +58,6 @@ Ortholinear Purple Owl (OPO)
 
 
 **Что посмотреть**
-- [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 - [A DIY 3D Printed and Handwired Custom](https://www.youtube.com/watch?v=iOeYkLlq9Ds)
 - [How to Design Mechanical Keyboard Plates and Cases](https://www.youtube.com/watch?v=7azQkSu0m_U)
 - [How to Design Mechanical Keyboard PCBs with Kicad](https://www.youtube.com/watch?v=8WXpGTIbxlQ)
