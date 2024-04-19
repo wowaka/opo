@@ -21,17 +21,16 @@ Ortholinear Purple Owl (OPO)
 ![](assets/schema3.png)
 [Электрическая схема "раздельной" раскладки](assets/schema_alt3.png)
 
-Пример монтажа. Источник: [https://habr.com/ru/articles/795727/](https://habr.com/ru/articles/795727/)
+Примеры монтажа
 
 ![](assets/mount.png)
-
-Еще один пример монтажа. Источник: [https://geekhack.org/index.php?topic=87689.0](https://geekhack.org/index.php?topic=87689.0)
+Источник: [https://habr.com/ru/articles/795727/](https://habr.com/ru/articles/795727/)
 
 ![](assets/mount2.png)
-
-И еще один пример монтажа. Источник: [https://scottokeebs.com/blogs/keyboards/scotto61-handwired-keyboard](https://scottokeebs.com/blogs/keyboards/scotto61-handwired-keyboard)
+Источник: [https://geekhack.org/index.php?topic=87689.0](https://geekhack.org/index.php?topic=87689.0)
 
 ![](assets/mount3.png)
+Источник: [https://scottokeebs.com/blogs/keyboards/scotto61-handwired-keyboard](https://scottokeebs.com/blogs/keyboards/scotto61-handwired-keyboard)
 
 Варианты корпуса
 
