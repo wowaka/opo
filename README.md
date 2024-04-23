@@ -56,12 +56,8 @@ Ortholinear Purple Owl (OPO)
 - [Keycap Profile & Size Information](https://blog.maxkeyboard.com/dwkb/keycap-profile-size-information/)
 - [Raspberry Pi Pico на МК RP2040. Как установить CircuitPython](https://habr.com/ru/articles/538994/)
 - [Setting Up CircuitPython](https://github.com/CytronTechnologies/MAKER-PI-RP2040/blob/main/setup-circuitpython.md)
-- [KMK Boards](https://github.com/KMKfw/kmk_firmware/tree/master/boards)
 - [KMK Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs/en)
 - [Keys Overview](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md)
-- [ScottoKeebs](https://scottokeebs.com/)
-- [Boardsource](https://www.boardsource.xyz/)
-
 
 **Что посмотреть**
 - [A DIY 3D Printed and Handwired Custom](https://www.youtube.com/watch?v=iOeYkLlq9Ds)
@@ -72,4 +68,7 @@ Ortholinear Purple Owl (OPO)
 - [Soldering Raspberry Pi Pico](https://www.youtube.com/watch?v=u3A2UhlUC2w)
 
 **Интересные проекты**
+- [KMK Boards](https://github.com/KMKfw/kmk_firmware/tree/master/boards)
 - [Drift Keyboard](https://github.com/Timception/Drift/tree/main)
+- [ScottoKeebs](https://scottokeebs.com/)
+- [Boardsource](https://www.boardsource.xyz/)
