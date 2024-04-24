@@ -68,5 +68,6 @@ Ortholinear Purple Owl (OPO)
 **Интересные проекты**
 - [KMK Boards](https://github.com/KMKfw/kmk_firmware/tree/master/boards)
 - [Drift Keyboard](https://github.com/Timception/Drift/tree/main)
+- [Keyboard Mountain](https://github.com/DreaM117er/Explorer-Keyboard-Mountian)
 - [ScottoKeebs](https://scottokeebs.com/)
 - [Boardsource](https://www.boardsource.xyz/)
