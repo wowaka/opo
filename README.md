@@ -30,6 +30,9 @@ Ortholinear Purple Owl (OPO)
 ![](assets/mount3.png)
 Источник: [https://scottokeebs.com/blogs/keyboards/scotto61-handwired-keyboard](https://scottokeebs.com/blogs/keyboards/scotto61-handwired-keyboard)
 
+![](assets/mount4.jpeg)
+Источник: [https://bestguy.github.io/site/keyboard/2017/10/05/rift60.html](https://bestguy.github.io/site/keyboard/2017/10/05/rift60.html)
+
 Варианты корпуса
 
 ![](assets/mounting.png)
