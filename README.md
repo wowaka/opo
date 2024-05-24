@@ -15,11 +15,11 @@ Ortholinear Purple Owl (OPO)
 ![](assets/plate.svg)
 Просмотровщик и редактор DXF: [SOLVESPACE](https://solvespace.com/index.pl)
 
-**Электрическая схема**
+Электрическая схема
 
 ![](assets/schema3.png)
 
-**Примеры монтажа**
+Примеры монтажа
 
 ![](assets/mount.png)
 Источник: [https://habr.com/ru/articles/795727/](https://habr.com/ru/articles/795727/)
@@ -33,7 +33,7 @@ Ortholinear Purple Owl (OPO)
 ![](assets/mount4.jpg)
 Источник: [https://bestguy.github.io/site/keyboard/2017/10/05/rift60.html](https://bestguy.github.io/site/keyboard/2017/10/05/rift60.html)
 
-**Варианты корпуса**
+Варианты корпуса
 
 ![](assets/mounting.png)
 
