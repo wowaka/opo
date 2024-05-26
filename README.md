@@ -19,6 +19,10 @@ Ortholinear Purple Owl (OPO)
 
 ![](assets/schema3.png)
 
+Пример расположения контроллера
+
+![](assets/arrangement.jpeg)
+
 Примеры монтажа
 
 ![](assets/mount.png)
@@ -36,10 +40,6 @@ Ortholinear Purple Owl (OPO)
 Варианты корпуса
 
 ![](assets/mounting.png)
-
-Пример расположения контроллера
-
-![](assets/arrangement.jpeg)
 
 Назначение выводов Raspberry Pi Pico 
 
