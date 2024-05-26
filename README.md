@@ -19,7 +19,7 @@ Ortholinear Purple Owl (OPO)
 
 ![](assets/schema3.png)
 
-Пример расположения контроллера
+Расположение контроллера
 
 ![](assets/arrangement.jpeg)
 
