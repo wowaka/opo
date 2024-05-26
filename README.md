@@ -10,6 +10,14 @@ Ortholinear Purple Owl (OPO)
 
 ![](assets/win3.png)
 
+Расположение контроллера
+
+![](assets/arrangement.jpeg)
+
+Варианты корпуса
+
+![](assets/mounting.png)
+
 Чертеж пластины для крепления клавиш сгенерирован с помощью [ai03 Plate Generator](https://kbplate.ai03.com/) (см. [DXF](assets/plate.dxf))
 
 ![](assets/plate.svg)
@@ -18,10 +26,6 @@ Ortholinear Purple Owl (OPO)
 Электрическая схема
 
 ![](assets/schema3.png)
-
-Расположение контроллера
-
-![](assets/arrangement.jpeg)
 
 Примеры монтажа
 
@@ -37,9 +41,7 @@ Ortholinear Purple Owl (OPO)
 ![](assets/mount4.jpg)
 Источник: [https://bestguy.github.io/site/keyboard/2017/10/05/rift60.html](https://bestguy.github.io/site/keyboard/2017/10/05/rift60.html)
 
-Варианты корпуса
 
-![](assets/mounting.png)
 
 Назначение выводов Raspberry Pi Pico 
 
